@@ -2,3 +2,9 @@ x = 5
 y = "Shiny"
 print(x)
 print(y)
+
+#get the type
+x = 5
+y = "John"
+print(type(x))
+print(type(y))
