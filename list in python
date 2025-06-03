@@ -1,0 +1,4 @@
+#ordered changable allowed duplicates 
+
+thislist = ["guava", "banana", "avocado", "guava", "cherry"]
+print(thislist)
